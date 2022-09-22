@@ -7,7 +7,7 @@ public class Main {
 		String selection;
 		 do {
 			 System.out.println("Gestion de la liste de personnes");
-			 System.out.println("\n** Entrez l'option souhaitée : **\n");
+			 System.out.println("\n** Entrez l'option souhaitï¿½e : **\n");
 			 choix = sc.nextInt();
 			 sc.nextLine();
 			 
@@ -41,6 +41,7 @@ public class Main {
 
 	public static void main(String[] args) {
 	System.out.println("Coucou");
+	DBParams params = new DBParams(args[0], 4096, 4);
 
 	}
 
