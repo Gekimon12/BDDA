@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.InputMismatchException;
+
+public class Main {
+	
+	public static void menu (Scanner sc, ArrayList list) {
+		Integer choix = 0;
+		final String SEPARATEUR = " ";
+		String firstChar;
+		 do {
+			 System.out.println("Gestion de la liste de personnes");
+			 System.out.println("\n** Entrez l'option souhaitée : **\n");
+			 choix = sc.nextInt();
+			 sc.nextLine();
+			 
+			 String selection = sc.nextLine();
+			 
+			 if (") {
+				 
+			 }
+		 }
+			 
+			 
+	}
+
+	public static void main(String[] args) {
+		System.out.println("Coucou");
+
+	}
+
+}

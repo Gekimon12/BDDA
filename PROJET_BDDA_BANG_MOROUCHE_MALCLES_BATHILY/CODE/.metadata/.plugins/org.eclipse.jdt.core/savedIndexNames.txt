@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Alexis\Documents\L3 Informatique et applications\Semestre 1\Base de données avancée\PROJET_BDDA_BANG_MOROUCHE_MALCLES_BATHILY\CODE\.metadata\.plugins\org.eclipse.jdt.core
+2893804165.index
+1671692264.index
+1865797976.index
